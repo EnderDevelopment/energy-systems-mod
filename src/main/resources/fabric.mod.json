@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "energysystemsmod",
+  "version": "1.0.0",
+  "name": "Energy Systems Mod",
+  "description": "A Minecraft mod for energy systems",
+  "authors": ["inneungsan9"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.inneungsan9.energysystemsmod.EnergySystemsMod"
+    ]
+  },
+  "minecraft": {
+    "*": {
+      "version": "1.21.4",
+      "ordering": "NONE"
+    }
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0"
+  }
+}

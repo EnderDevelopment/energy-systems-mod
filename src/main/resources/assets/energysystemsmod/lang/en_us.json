@@ -1,0 +1,5 @@
+{
+  "item.energysystemsmod.energy_cell": "Energy Cell",
+  "block.energysystemsmod.energy_generator": "Energy Generator",
+  "block.energysystemsmod.energy_consumer": "Energy Consumer"
+}
